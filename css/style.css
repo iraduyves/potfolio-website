@@ -429,6 +429,7 @@ nav{
     flex-direction: column;
     justify-content:space-between ;
     border-left: 1px solid rgba(255, 255, 255, 0.08);
+    
 }
 .c-l-heading{
     font-family: calibri;
